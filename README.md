@@ -1,1 +1,1 @@
-My first readme.
+This my First week in my way of becoming software engineer. I created this repository today, using git command from Shell. Can't wait to achieve my dream soon. I am so excited, and also grateful ALX for this wonderful opportunity.
